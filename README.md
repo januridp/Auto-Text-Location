@@ -2,7 +2,7 @@
 Application that allow you to send text automatically of your location.
 
 ## Gallery
-[Auto Text Location](ai2.appinventor.mit.edu/?galleryId=4693009777557504)
+[Auto Text Location](http://ai2.appinventor.mit.edu/?galleryId=4693009777557504)
 
 ### How to use: 
 1. Install the app to your android phone.
