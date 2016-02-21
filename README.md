@@ -3,7 +3,7 @@ Application that allow you to send text automatically of your location.
 
 ## Dev
 Version Code 2.0
-Version Name "BetaTwo"
+Code Name "BetaTwo"
 
 ## Gallery
 [Auto Text Location](http://ai2.appinventor.mit.edu/?galleryId=4693009777557504)
