@@ -17,4 +17,4 @@ Application that allow you to send text automatically of your location.
 This app created by [MIT App Inventor 2 Beta](http://ai2.appinventor.mit.edu)
 
 ### License
-This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>
+This work is licensed under MIT.
